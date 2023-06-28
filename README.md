@@ -18,7 +18,7 @@
 
 *It needs to be noted that running an application in flutter may take time for the first time in both real device and virtal device (emulator).
 
-Setup for MAC OS
+#Setup for MAC OS
 
 The actual code to change the path permanently
  export PATH="$PATH:$(pwd)/flutter/bin"
