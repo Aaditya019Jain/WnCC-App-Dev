@@ -55,17 +55,23 @@ won't recognize them so to solve this we need to permanently change its path.for
 Try to open a file with the command<br> `open ~/.zshrc`
 If the file doesn't exists then create one with the command `touch ~/.zshrc”`<br>
 Add the lines<br>
-`export ANDROID_HOME=/Users/(username)/Library/Android/sdk`<br>
+`export ANDROID_HOME=/echo $USER/Library/Android/sdk`<br>
 `export PATH=$PATH:$ANDROID_HOME/tools`<br>
 `export PATH=$PATH:$ANDROID_HOME/platform-tools`<br>
-`export PATH="$PATH:/Users/(username)/Downloads/development/flutter/bin`
+`export PATH="$PATH:/Users/echo $USER/Downloads/development/flutter/bin`
 in the file</li>
 
 <li>After this you need some softwares downloaded in your mac which include <br>
 <ul>
-<li>VS Code</li>
-<li>X Code</li>
-<li>Android Studio (download each form their respective official sites)</li>
+<li> 
+	
+[VS Code](https://code.visualstudio.com/download) </li>
+<li>
+	
+[X Code](https://developer.apple.com/xcode/)</li>
+<li>
+	
+[Android Studio](https://developer.android.com/studio) </li>
 </ul></li>
 <li>
 	
