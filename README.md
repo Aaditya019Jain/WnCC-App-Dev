@@ -32,7 +32,7 @@ This will setup the required environment needed for you to set up flutter in you
 Another thing to refer is [youtube video to setup flutter on MAC OS](https://www.youtube.com/watch?v=fEfMYAAeHmY)
 
 <h2>Coming on the steps to set up flutter:-</h2>
-Use the command to set up the environment on your mac os “sudo softwareupdate --install-rosetta --agree-to-license”
+Use the command to set up the environment on your mac os `sudo softwareupdate --install-rosetta --agree-to-license`
 
 
 Download the package according to the core of your mac book from the website mentioned above.
