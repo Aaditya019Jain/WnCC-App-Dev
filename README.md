@@ -72,7 +72,7 @@ in the file</li>
 <li>
 	
 [Android Studio](https://developer.android.com/studio) </li>
-</ul></li>
+</ul>
 <li>
 	
 Now run a command `flutter doctor` on your terminal and check on what all points you 
